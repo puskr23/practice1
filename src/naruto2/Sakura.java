@@ -10,6 +10,9 @@ public class Sakura {
 		System.out.println("IS");
 		System.out.println("Master");
 		System.out.println("Branch");
+		System.out.println("IS");
+		System.out.println("GIT");
+		System.out.println("Bash");
 	}
 	
 

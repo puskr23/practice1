@@ -8,9 +8,13 @@ public class Sakura {
 		System.out.println("this is master branch");
 		System.out.println("this is ithari branch");
 		
+<<<<<<< HEAD
 	}
 	
+=======
+>>>>>>> ithari
 
 	}
+}
 
 

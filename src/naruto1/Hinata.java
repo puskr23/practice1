@@ -9,7 +9,10 @@ public class Hinata {
 		System.out.println(s);
 		else
 			System.out.println("hello");
+<<<<<<< HEAD
 		System.out.println("puskar");
+=======
+>>>>>>> ithari
 		
 	}
 	

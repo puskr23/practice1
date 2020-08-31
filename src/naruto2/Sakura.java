@@ -5,14 +5,8 @@ public class Sakura {
 	int b=9;
 	int c=a+b;
 	public static void main(String[] args) {
-		System.out.println("this is just practice");
-		System.out.println("THIS");
-		System.out.println("IS");
-		System.out.println("Master");
-		System.out.println("Branch");
-		System.out.println("IS");
-		System.out.println("GIT");
-		System.out.println("Bash");
+		System.out.println("this is master branch");
+		
 	}
 	
 
